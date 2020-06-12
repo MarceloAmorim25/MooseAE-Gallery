@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TSRceYbzHnzsGzPAOLk9Lg7WPjXXnvFtQjk/wRpSZNRE6EomHBt4XK6Wr3UpL7jzakfa2tZ1AMf/Jkdp0CtV2g==",
+  "dgSpecHash": "rP+QtoTJsK5XostSV0rqSgOJBdWyTfUPpI0PddNvWCWbhn7cK/BUMNX4o/E0YKOAya9gG9K94t7u3O0eCrOjaw==",
   "success": true,
   "projectFilePath": "C:\\Users\\marce\\source\\repos\\MooseAE-Gallery\\WebMooseAE\\WebMooseAE\\WebMooseAE.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\odetocode.usenodemodules\\3.0.0\\odetocode.usenodemodules.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

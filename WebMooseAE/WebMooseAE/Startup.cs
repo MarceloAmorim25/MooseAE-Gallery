@@ -23,6 +23,7 @@ namespace WebMooseAE
         {
             app.UseDefaultFiles();
             app.UseStaticFiles();
+            app.UseNodeModules();
         }
     }
 }
